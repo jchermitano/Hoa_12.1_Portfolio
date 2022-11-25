@@ -1,0 +1,4 @@
+CONTAINER ID   IMAGE       COMMAND                  CREATED         STATUS                     PORTS     NAMES
+cfa4c565d99a   sampleapp   "/bin/sh -c 'python3…"   2 minutes ago   Exited (2) 2 minutes ago             samplerunning
+154d5fc66b2a   nginx       "/docker-entrypoint.…"   2 days ago      Exited (0) 2 days ago                loving_moser
+d4510d3cdb3e   nginx       "/docker-entrypoint.…"   2 days ago      Exited (0) 2 days ago                unruffled_chatterjee
